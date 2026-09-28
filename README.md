@@ -1,5 +1,5 @@
 # Codes for the Manuscript: "Building First, Governing Later? Digital Public Infrastructure and the Power of Policy Narratives"
-Victo Silva, Vinicius Muraro, Frederik Zuiderveen1, Raphael Gellert
+Victo Silva, Vinicius Muraro, Frederik Zuiderveen, Raphael Gellert
 
 ## Abstract
 
