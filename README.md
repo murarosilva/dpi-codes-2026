@@ -18,4 +18,4 @@ The notebooks are stored in `code/` and numbered in their intended workflow orde
 
 Data sources, downloaded PDFs, generated datasets, and model files are intentionally excluded. Several are too large for a standard GitHub repository and may also have separate access or redistribution requirements.
 
-The notebooks retain their original file references, so local data and output directories may need to be adjusted when the project is run on another computer.
+File references are relative to the repository root. Create the referenced data and output directories locally, or adjust those paths for your environment, before running the notebooks.
